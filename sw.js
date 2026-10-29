@@ -4,7 +4,7 @@
 // Author: Suleiman M Hajizadeh <suleyman.hacizade1@gmail.com>
 // License: Mozilla Public License 2.0 (MPL-2.0)
 
-const CACHE_VERSION = 'v5.0.0';
+const CACHE_VERSION = 'v5.1.0';
 const STATIC_CACHE_NAME = `wcu-virtulab-static-${CACHE_VERSION}`;
 const RUNTIME_CACHE_NAME = `wcu-virtulab-runtime-${CACHE_VERSION}`;
 const MODELS_CACHE_NAME = `wcu-virtulab-models-${CACHE_VERSION}`;
